@@ -1,15 +1,1 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Перейти к карте</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-    <body class="subpage">
-
-		<!-- Header -->
-			<header id="header">
-				<div class="logo"><a href="index.html">Вернуться <span>на главную</span></a></div>
-				<a href="#menu">Menu</a>
-			</header>
+https://robinbobin939.github.io/site/project%20map1/index.html
